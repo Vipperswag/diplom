@@ -26,7 +26,7 @@
   
 ---
 <h1>Мой не сам</h1>
-  <a href="https://github.com/Loony211/demoexz/tree/main/moy_ne_sam">
+  <a href="https://github.com/Vipperswag/demoexzamen/tree/main/mou_ne_sam">
     <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
   
@@ -44,7 +44,7 @@
   - Есть стили
 ---
 <h1>Нарушениям Нет</h1>
-  <a href="https://github.com/Loony211/demoexz/tree/main/naru_net">
+  <a href="https://github.com/Vipperswag/demoexzamen/tree/main/narysheniam_net">
     <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
   
