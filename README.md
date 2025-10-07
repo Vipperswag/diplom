@@ -14,10 +14,10 @@
   - Создается на python
   - Будет внедрена база данных, сделанная через my.sql
 
-  <a href="https://drive.google.com/file/d/1RbR9mKTtYo_O6Yh11mSzqcYIQt0QJEcI/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1Dx3Z0S84e3eEUk5gkdQGQKUjgjwP5r1B/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Структура приложения-purple?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
-   <a href="https://drive.google.com/file/d/1RbR9mKTtYo_O6Yh11mSzqcYIQt0QJEcI/view?usp=drive_link">
+   <a href="https://drive.google.com/file/d/1s4rdAz62R9TIPQEWEA-c2FYLWXlGaQN8/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Варианты использования Use Case-purple?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
      <a href="https://docs.google.com/spreadsheets/d/1ER0RY8g8Ei5lKAU_kTm3HxB110WWoynb/edit?usp=drive_link&ouid=101743919987561321728&rtpof=true&sd=true">
