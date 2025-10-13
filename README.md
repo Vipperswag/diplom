@@ -22,6 +22,9 @@
   </a>
      <a href="https://docs.google.com/spreadsheets/d/1ER0RY8g8Ei5lKAU_kTm3HxB110WWoynb/edit?usp=drive_link&ouid=101743919987561321728&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/Таблицы-purple?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
+  <a href="https://drive.google.com/file/d/1dRveQqAcsjFt_hQ-Q9Gq0W4pnk5wW2tL/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Логотип-purple?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
+  </a>
   </a>
   
 ---
